@@ -6,3 +6,6 @@ body {
 img {
   width: 10rem;
 }
+p{
+  font-style: italic;
+}
